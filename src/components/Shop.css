@@ -1,0 +1,17 @@
+.home {
+    height: 100vh;
+    text-align: center;
+    background-color: plum;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.product {
+    padding: 30px 10px;
+    font-weight: lighter;
+}
