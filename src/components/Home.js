@@ -1,11 +1,12 @@
 import React from 'react';
-import Footer from './Footer';
 import './Home.css';
+import Footer from './Footer';
 
 const Home = () => {
     return (
         <div className="home">
-            <h1>home page</h1>
+            <h1> this is my Home page</h1>
+            <p>make it jazzy</p>
             <Footer/>
         </div>
     )

@@ -3,7 +3,8 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:plum;
+    background-color:rgb(231, 192, 231);
     color: purple;
     text-align: center;
+    font-size: 30px;
   }
